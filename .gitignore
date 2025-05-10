@@ -16,9 +16,9 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Datasets
-data/
-synthetic_data/
+## Datasets
+#data/
+#synthetic_data/
 
 # Saved model checkpoints
 *.pth
