@@ -1,0 +1,27 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDE configuration
+.idea/
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Datasets
+data/
+synthetic_data/
+
+# Saved model checkpoints
+*.pth
+*.pt
+
+.ipynb_checkpoints/

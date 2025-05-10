@@ -1,0 +1,7 @@
+torch>=1.9.0
+torchvision>=0.10.0
+numpy>=1.20.0
+matplotlib>=3.4.0
+Pillow>=8.3.0
+scikit-learn>=0.24.0 # For accuracy_score, though we implemented it manually in validate
+tqdm>=4.60.0
